@@ -73,3 +73,9 @@ plt.legend()
 
 # Afficher le graphique
 plt.show()
+
+# Exercice 7 : Création du graphique avec matplotlib
+# Les températures maximales et minimales augmentent, ce qui pourrait signifier des vagues de chaleur
+# plus fréquentes. La température moyenne annuelle monte chaque année, un signe du réchauffement
+# climatique. Par contre, l'écart entre les températures maximales et minimales reste assez stable, 
+# même si ça fluctue.
